@@ -93,7 +93,7 @@ for(var i=1;i<carGroup1.length;i++){
     stroke("Green");
     fill("Green");
     textSize(40);
-    text("Congratulations! You Made It,",width/2-250,-1700);
+    text("Congratulations! You Made It.",width/2-250,-1700);
     carGroup1.destroyEach();
     logGroup1.destroyEach();
 
